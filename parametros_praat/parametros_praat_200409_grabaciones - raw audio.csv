@@ -1,0 +1,11 @@
+Grabacion,Att at ceiling,Silence threshold,Voicing threshold,Octave cost,Octave-jump cost,Voiced/unvoiced cost,Frec_min,Frec_max,Notas
+HA030920041126,,0.21,0.02,0.055,0.09,0.015,1000,4500,
+HA030920041427,,0.17,0.02,0.09,0.09,0.09,1000,3000,
+HA030920041048,,0.17,0.02,0.09,0.05,0.005,1000,3000,
+HA030920041119,,,,,,,,,"Muy ruidosa, sin silabas alfa ademas creo"
+HA030920041206,,,,,,,,,no hay alfa
+HA220920041223,,,,,,,,,macho (tiene un silencio al inicio)
+HA220920041244,,0.16,0.01,0.09,0.05,0.01,1000,3000,
+HA220920041357,,0.16,0.01,0.09,0.05,0.01,1000,3000,
+HA220920041429,,,,,,,,,hay solo dos silabas alfa muy muy bajitas
+HA220920041514,,0.16,0.01,0.09,0.05,0.01,1000,3000,
